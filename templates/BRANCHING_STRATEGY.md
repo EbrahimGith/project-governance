@@ -1,0 +1,11 @@
+# [Project name] — Branching strategy
+- Strategy: [main-only / develop / release-managed]
+- Default branch: [main]
+- Protected branches: [list]
+- Feature / bug PR target: [main or develop]
+- Branch names: `feature/<issue>-description`, `fix/<issue>-description`
+- Contributors: everyone uses personal forks in v1.
+- Reviewers / authorized mergers: [names or team]
+- Required checks: [list or N/A]
+- Release / hotfix flow: [steps or N/A]
+- Deployment: [steps or N/A]
