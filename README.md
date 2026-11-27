@@ -1,4 +1,4 @@
-# Norouz Club Project Governance
+# Norowz Club Project Governance
 
 **Version 1.0 — Draft for team review**
 
