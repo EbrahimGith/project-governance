@@ -6,7 +6,7 @@
 A simple, shared GitHub process for Norouz Club projects, from HTML pages to open-source applications.
 
 ## Core rules
-- All official repositories belong to the Norouz Club organization.
+- All official repositories belong to the Nowroz Club organization.
 - Each independent project has its own repository and a responsible maintainer.
 - In version 1.0, **everyone contributes through a personal fork and a pull request**, including maintainers when contributing changes.
 - No direct pushes to protected upstream branches.
